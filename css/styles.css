@@ -1,13 +1,22 @@
 h1{
   color: ##17202A;
   text-align: center;
+  font-size: 100px;
 }
 body{
-  background-color: #E74C3C;
+  background-color: #208440;
 }
 p{
   font-style: italic;
+  font-size: 25px;
 }
 h2{
   color: #1B2631;
+  font-size: 40px;
+}
+.that{
+  background-image: url(../images/ocean.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1%;
 }
